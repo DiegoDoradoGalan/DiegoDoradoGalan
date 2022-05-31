@@ -50,3 +50,5 @@
 ### Github stats 📊​
 
 [![KDT's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoDoradoGalan)](https://github.com/23kdt/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoDoradoGalan&layout=compact)](https://github.com/23kdt/github-readme-stats)
